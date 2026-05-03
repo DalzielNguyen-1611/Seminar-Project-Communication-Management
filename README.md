@@ -25,13 +25,28 @@ Slide deck này phân tích sự dịch chuyển tư duy truyền thông qua cá
 
 ### Bước 1: Clone dự án
 ```bash
-git clone https://github.com/DalzielNguyen-1611/Seminar-Project-Communication-Management.git```
+git clone https://github.com/DalzielNguyen-1611/Seminar-Project-Communication-Management.git
+```
 
 ### Bước 2: Cài đặt thư viện (Dependencies)
 ```bash
 cd Seminar-Project-Communication-Management
-npm install ```
+npm install
+```
 
 ### Bước 3: Khởi chạy môi trường phát triển
 ```bash
-npm run dev```
+npm run dev
+```
+*Mặc định, slide sẽ hiển thị tại: `http://localhost:5173`.*
+
+---
+
+## 👥 3. Thành viên thực hiện (Team members)
+*   **Nguyễn Đoàn Đức Hiếu** (Nhóm trưởng) - 24520500
+*   **Phan Trung Kiên** - 23520805
+*   **Nguyễn Nữ Trà Giang** - 24520418
+*   **Lê Thị Bích Duyên** - 24520406
+*   **Hồ Thị Thùy Dung** - 24520805
+
+---
