@@ -1,9 +1,9 @@
 import { SlideLayout } from '../SlideLayout';
 
 const members = [
-  { initials: 'ĐH', name: 'Nguyễn Đoàn\nĐức Hiếu\n24520500', role: 'Nhóm trưởng', color1: '#0ea5e9', color2: '#38bdf8', avatarUrl: '/images/team/hieu.jpg' },
   { initials: 'TK', name: 'Phan\nTrung Kiên\n23520805', role: 'Thành viên', color1: '#8b5cf6', color2: '#a78bfa', avatarUrl: '/images/team/kien.jpg' },
   { initials: 'TG', name: 'Nguyễn Nữ\nTrà Giang\n24520418', role: 'Thành viên', color1: '#0ea5e9', color2: '#8b5cf6', avatarUrl: '/images/team/giang.jpg' },
+  { initials: 'ĐH', name: 'Nguyễn Đoàn\nĐức Hiếu\n24520500', role: 'Nhóm trưởng', color1: '#0ea5e9', color2: '#38bdf8', avatarUrl: '/images/team/hieu.jpg' },
   { initials: 'BD', name: 'Lê Thị\nBích Duyên\n24520406', role: 'Thành viên', color1: '#8b5cf6', color2: '#ec4899', avatarUrl: '/images/team/duyen.jpg' },
   { initials: 'TD', name: 'Hồ Thị\nThùy Dung\n24520805', role: 'Thành viên', color1: '#06b6d4', color2: '#0ea5e9', avatarUrl: '/images/team/dung.jpg' },
 ];
