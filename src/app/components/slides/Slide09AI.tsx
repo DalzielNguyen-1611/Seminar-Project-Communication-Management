@@ -100,7 +100,7 @@ export function Slide09AI() {
               <strong style={{ color: '#fff', display: 'block', marginBottom: '4px' }}>Thiên kiến & Ảo giác:</strong> Luôn cần con người kiểm tra và xác thực để tránh các thông tin sai lệch hoặc không có thật từ AI.
             </div>
             <div style={{ fontFamily: "'Inter', sans-serif", fontSize: '13px', color: 'rgba(255,255,255,0.75)', lineHeight: 1.5 }}>
-              <strong style={{ color: '#fff', display: 'block', marginBottom: '4px' }}>Trách nhiệm giải trình:</strong> Con người phải là chủ thể chịu trách nhiệm cuối cùng cho mọi quyết định và thông điệp phát đi.[cite: 4]
+              <strong style={{ color: '#fff', display: 'block', marginBottom: '4px' }}>Trách nhiệm giải trình:</strong> Con người phải là chủ thể chịu trách nhiệm cuối cùng cho mọi quyết định và thông điệp phát đi.
             </div>
           </div>
         </div>
