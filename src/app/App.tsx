@@ -2,15 +2,15 @@ import { useState, useEffect, useCallback } from 'react';
 import { Slide01Title } from './components/slides/Slide01Title';
 import { Slide02Team } from './components/slides/Slide02Team';
 import { Slide03Challenge } from './components/slides/Slide03Challenge';
-import { Slide04ITTO } from './components/slides/Slide04aITTO';
-import { Slide04bITTO } from './components/slides/Slide04bITTO';
+import { Slide04ITTO } from './components/slides/Slide04ITTO';
+import { Slide04bITTO } from './components/slides/Slide05ITTO';
 import { Slide05Channels } from './components/slides/Slide05Channels';
 import { Slide06PMBOK78 } from './components/slides/Slide06PMBOK78';
 import { Slide07Human } from './components/slides/Slide07Human';
 import { Slide08Agile } from './components/slides/Slide08Agile';
 import { Slide09AI } from './components/slides/Slide09AI';
-import { Slide11Future } from './components/slides/Slide11Future';
-import { Slide12Conclusion } from './components/slides/Slide12Conclusion';
+import { Slide11Future } from './components/slides/Slide10Future';
+import { Slide12Conclusion } from './components/slides/Slide11Conclusion';
 
 const slideComponents = [
   <Slide01Title />,
